@@ -2,4 +2,4 @@
 
 ## Counter App
 
-Simple counter using React Js
+Implement a simple counter using React Js
